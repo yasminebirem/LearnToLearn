@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Questionnaire from './components/Questionnaire';
+import React from 'react';
 
 function App() {
   return (
